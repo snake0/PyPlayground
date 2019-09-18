@@ -1,2 +1,2 @@
 # PyPlayground
-python
+Python implementation of leetcode or ML algorithms.
